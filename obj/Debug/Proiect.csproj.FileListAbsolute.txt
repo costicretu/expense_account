@@ -1,0 +1,14 @@
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\bin\Debug\Proiect.exe.config
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\bin\Debug\Proiect.exe
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\bin\Debug\Proiect.pdb
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.Form1.resources
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.Form2.resources
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.Form3.resources
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.exe
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\obj\Debug\Proiect.pdb
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\bin\Debug\SampleDatabase.mdf
+D:\Facultate\Programarea aplicațiilor Windows\Projects\Proiect\bin\Debug\SampleDatabase_log.ldf
